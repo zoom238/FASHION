@@ -210,11 +210,6 @@ li {
     object-fit: contain;
 }
 
-
-.block__catalog {
-
-}
-
 .block__catalog h1 { 
     margin: 69px 0px 118px 0px;
 
@@ -232,10 +227,6 @@ li {
     justify-content: space-between;
 }
 
-.section__catalog {
-
-}
-
 .section__catalog img {
     width: 100%;
 
@@ -245,10 +236,6 @@ li {
 .section__catalog img:hover {
     transform: scale(1.05);
     transition: 0.6s;
-}
-
-.section__catalog_part {
-
 }
 
 .section__catalog h2 {
@@ -443,10 +430,6 @@ li {
     z-index: 2;
 }
 
-.section__instagram_offer {
-
-}
-
 .section__instagram_offer img {
     border-radius: 20px;
 }
@@ -481,10 +464,6 @@ li {
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
-
-.section__download {
-
 }
 
 .section__download h2 {
@@ -604,10 +583,6 @@ li {
     justify-content: space-between;
 }
 
-.fashion__contact__media {
-
-}
-
 .fashion__contact__media h3 {
     font-size: 40px;
     font-weight: 900;
@@ -651,10 +626,6 @@ li {
     align-items: center;
 
     background-color: #EBD96B;
-}
-
-.media__item img {
-
 }
 
 .fashion__links {
