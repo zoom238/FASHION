@@ -300,7 +300,7 @@ li {
 
 	background-size: cover;
 
-	background-image: url(/Программирование/FASHION-develop/FASHION-develop/assets/images/sale_section_img.png);
+	background-image: url(../assets/images/sale_section_img.png);
 }
 
 .section__sale {
@@ -416,7 +416,7 @@ li {
 	position: absolute;
 
 	background-repeat: no-repeat;
-	background-image: url(/assets/images/trend-text-decoration-img.png);
+	background-image: url(../assets/images/trend-text-decoration-img.png);
 
 	z-index: -1;
 }
